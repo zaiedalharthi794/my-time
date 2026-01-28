@@ -1,0 +1,5 @@
+{
+  "name": "Zamani AI - Smart Time Management",
+  "description": "An AI-powered time management platform that uses Gemini to transform natural language project descriptions into structured, optimized daily schedules with focus blocks and productivity insights.",
+  "requestFramePermissions": []
+}
